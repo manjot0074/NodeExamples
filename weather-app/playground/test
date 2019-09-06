@@ -1,0 +1,28 @@
+{
+  "creditCheckInputmap": {
+    "bundlesCount": 1,
+    "bundles": [
+      {
+        "TariffDescription": null,
+        "TariffOneOffCharge": 0,
+        "TariffMRC": 10,
+        "TariffId": "8020E000000kuYTQAY",
+        "TariffCode": "OFF_CORETARIFFData2GBAYCEVOICETEXT",
+        "TariffName": "CORE TARIFF 2GB DATA PLUS AYCE VOICE AND TEXT",
+        "LineNumber": "0001",
+        "Quantity": 1,
+        "Id": "8020E000000kuYOQAY"
+      }
+    ],
+    "errorCode": "INVOKE-200",
+    "error": "OK"
+  },
+  "ExtractOrderDetails": {
+    "UpfrontPaymentAmount": 0,
+    "UpfrontAmount": 10,
+    "OriginatingChannelCC": "T",
+    "OrderNumber": "00001183",
+    "OrderId": "8010E000000NottQAC",
+    "MRC": "0.00"
+  }
+}
